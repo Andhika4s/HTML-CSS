@@ -1,0 +1,23 @@
+div {
+  color: #6b2c1a;
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #ffffff;
+}
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #ccc;
+  height: 55px;
+  text-align: center;
+  font-size: 1.2rem;
+}
+th {
+  background-color: #6b2c1a;
+  color: white;
+  text-align: center;
+}
